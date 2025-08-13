@@ -5,6 +5,8 @@
 - [Introduction](#Introduction)
 - [Methodology](#Methodology)
 - [Key Findings](#Key-Findings)
+- [Conclusion](#Conclusion)
+- [Recommendations](#Recommendations)
 
 ### 1. Introduction
 
