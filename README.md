@@ -1,4 +1,10 @@
 # Hospital Management Data Analysis Report
+
+## Table of Contents
+
+- [Introduction](#Introduction)
+- [Methodology](#Methodology)
+
 ### 1. Introduction
 
 The healthcare sector is increasingly reliant on data to drive decision-making and improve patient outcomes. This report presents an analytical review of a hospital’s patient, appointment, and billing data, with the aim of identifying operational trends and areas for improvement. The dataset includes patient demographics, appointment details, treatment types, financial transactions, and hospital branch data.
