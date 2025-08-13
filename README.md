@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [Introduction](#Introduction)
-- [Methodology](#Methodology)
-- [Key Findings](#Key-Findings)
-- [Conclusion](#Conclusion)
-- [Recommendations](#Recommendations)
+- [Introduction](#introduction)
+- [Methodology](#methodology)
+- [Key Findings](#key-findings)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
 
 ### 1. Introduction
 
