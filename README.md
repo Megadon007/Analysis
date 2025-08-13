@@ -4,6 +4,7 @@
 
 - [Introduction](#Introduction)
 - [Methodology](#Methodology)
+- [Key Findings](#Key-Findings)
 
 ### 1. Introduction
 
